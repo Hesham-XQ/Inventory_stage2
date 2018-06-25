@@ -29,7 +29,7 @@
 
         <provider
             android:name="com.example.android.inventory.data.ProductProvider"
-            android:authorities="com.example.android.invevtory"
+            android:authorities="com.example.android.invevtoryProvider"
             android:exported="false" />
     </application>
 
