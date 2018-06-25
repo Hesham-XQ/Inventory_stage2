@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        style="@style/wrap_content_style"
+        android:layout_weight="2"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/product_name"
+            android:text="@string/product_name"
+            android:textSize="@dimen/product_text_size_24"
+            style="@style/wrap_content_style" />
+        <TextView
+            android:id="@+id/price"
+            style="@style/wrap_content_style"
+            android:background="#fa8a99"
+            android:text="@string/price"
+            android:textSize="@dimen/price_text_size_16" />
+        <TextView
+            android:id="@+id/quantity"
+            style="@style/wrap_content_style"
+            android:text="@string/Instock"
+            android:textSize="@dimen/quantity_text_size_20" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/sale_button"
+        android:layout_width="@dimen/store_img_height_width"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/sale" />
+
+
+</LinearLayout>

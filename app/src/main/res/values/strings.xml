@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Invevtory</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+    <string name="insert_dummy_data">insert_dummy_data</string>
+    <string name="delete_all_entries">delete_all_entries</string>
+    <string name="product_name">Product name</string>
+    <string name="price">Price</string>
+    <string name="Instock">In Stock</string>
+    <string name="type_product_name_here">type product name here</string>
+    <string name="supplier_number">supplier number</string>
+    <string name="supplier_number_here">supplier number here</string>
+    <string name="quantity">quantity</string>
+    <string name="supplier_name">supplier name</string>
+    <string name="supplier_name_here">supplier name here</string>
+    <string name="toast_out_of_stock_msg">Out of stock !!!!!!!</string>
+    <string name="delete_dialog">Delete this item ??</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_success">Item deleted successfully</string>
+    <string name="delete_error">Error while deleting item !</string>
+    <string name="error_msg_stock_update">Issue with upload value of quantity</string>
+    <string name="buy_msg_confirm">Item has been sold</string>
+    <string name="no_product_in_stock">No available product in stock</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a pet</string>
+    <string name="validation_msg_product_name">Product name required</string>
+    <string name="validation_msg_product_quantity">Product quantity required</string>
+    <string name="validation_msg_product_price">Product price required</string>
+    <string name="validation_msg_product_supplier_name">Supplier name is required</string>
+    <string name="validation_msg_product_supplier_number">Supplier number is required</string>
+    <string name="editor_insert_product_failed">failed to insert product</string>
+    <string name="editor_insert_product_successful">product inserted successfully</string>
+    <string name="editor_update_product_failed">Update product failed</string>
+    <string name="editor_update_product_successful">product updated successfully</string>
+    <string name="edit">Edit</string>
+</resources>

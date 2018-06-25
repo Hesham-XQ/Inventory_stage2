@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="product_text_size_24">18sp</dimen>
+    <dimen name="price_text_size_16">16sp</dimen>
+    <dimen name="quantity_text_size_20">20sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="margin_text">10dp</dimen>
+    <dimen name="edit_text_width">40dp</dimen>
+    <dimen name="store_img_height_width">100dp</dimen>
+</resources>
+
